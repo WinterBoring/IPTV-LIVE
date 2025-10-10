@@ -437,17 +437,17 @@ http://192.168.50.1:4022/rtp/239.94.2.17:5140
 http://192.168.50.1:4022/rtp/239.94.2.18:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰卫视资讯台高清" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰卫视资讯台高清
 http://192.168.50.1:4022/rtp/239.94.2.49:5140
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰卫视资讯台高清" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰卫视资讯台高清
-http://192.168.50.1:4022/rtp/239.94.2.50:5140
+##EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰卫视资讯台高清" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰卫视资讯台高清
+#http://192.168.50.1:4022/rtp/239.94.2.50:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰卫视中文台高清" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰卫视中文台高清
 http://192.168.50.1:4022/rtp/239.94.2.51:5140
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台高清" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰卫视中文台高清
-http://192.168.50.1:4022/rtp/239.94.2.52:5140
+##EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台高清" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰卫视中文台高清
+#http://192.168.50.1:4022/rtp/239.94.2.52:5140
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
 http://192.168.50.1:4022/rtp/239.94.2.53:5140
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
-http://192.168.50.1:4022/rtp/239.94.2.54:5140
+##EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
+#http://192.168.50.1:4022/rtp/239.94.2.54:5140
 #EXTINF:-1 tvg-id="CHANNEL[V]" tvg-name="CHANNEL[V]" tvg-logo="https://epg.112114.xyz/logo/CHANNEL[V].png" group-title="港澳台",CHANNEL[V]
 http://192.168.50.1:4022/rtp/239.94.2.55:5140
-#EXTINF:-1 tvg-id="CHANNEL[V]" tvg-name="CHANNEL[V]" tvg-logo="https://epg.112114.xyz/logo/CHANNEL[V].png" group-title="港澳台",CHANNEL[V]
-http://192.168.50.1:4022/rtp/239.94.2.56:5140
+##EXTINF:-1 tvg-id="CHANNEL[V]" tvg-name="CHANNEL[V]" tvg-logo="https://epg.112114.xyz/logo/CHANNEL[V].png" group-title="港澳台",CHANNEL[V]
+#http://192.168.50.1:4022/rtp/239.94.2.56:5140
