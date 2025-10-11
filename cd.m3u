@@ -29,6 +29,8 @@ http://192.168.50.1:4022/rtp/239.94.0.37:5140
 http://192.168.50.1:4022/rtp/239.94.0.14:5140
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15高清" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15高清
 http://192.168.50.1:4022/rtp/239.94.0.38:5140
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-16高清" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16高清
+http://192.168.50.1:4022/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17高清" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17高清
 http://192.168.50.1:4022/rtp/239.94.0.39:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+高清" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+高清
